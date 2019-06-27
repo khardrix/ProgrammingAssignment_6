@@ -2,7 +2,8 @@
  **********************************************************************************************************************
  *****  Class: CSC-360-001-2019-040    Semester: Summer 2019    Professor: Richard Fox    Student: Ryan Huffman   *****
  *****------------------------------------------------------------------------------------------------------------*****
- *****                    This is the Customer Object Class to be used with the PriorityQueues.                   *****
+ *****                                    This is the Customer Object Class                                       *****
+ *****         (The Comparable Interface and the compareTo methods are to be used with the PriorityQueues)        *****
  *****              This Class contains two int Instance Datums to store the Customer's entry time and            *****
  *****                             the amount of time it took to service that Customer.                           *****
  *****                         This Class also has Accessor Methods for both Instance Datum.                      *****
